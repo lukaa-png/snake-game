@@ -2,6 +2,8 @@
 
 Jogo da cobrinha feito com **HTML, CSS e JavaScript**, usando o **canvas** para desenhar o tabuleiro, a cobra e a comida.
 
+**[Jogar no navegador](https://lukaa-png.github.io/snake-game/)**
+
 Projeto de estudo desenvolvido passo a passo com orientação, como parte do meu aprendizado de desenvolvimento web. O foco foi entender a lógica do jogo e escrever o código, sem frameworks ou bibliotecas externas.
 
 ![Tela do jogo da cobrinha](assets/preview.png)
@@ -56,9 +58,9 @@ snake-game/
 └── README.md
 ```
 
-## Publicar no GitHub Pages
+## Publicação no GitHub Pages
 
-Depois de enviar os arquivos ao GitHub, abra **Settings → Pages**. Selecione **Deploy from a branch**, escolha a branch `main`, a pasta `/ (root)` e salve.
+O projeto utiliza a branch `main` e a pasta `/ (root)` como origem de publicação. A configuração fica em **Settings → Pages → Deploy from a branch**.
 
 Os caminhos do CSS e do JavaScript são relativos, para funcionar também quando o jogo for publicado em uma subpasta do GitHub Pages.
 
