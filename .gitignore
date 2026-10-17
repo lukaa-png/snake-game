@@ -1,0 +1,12 @@
+# Arquivos locais do sistema e do editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Configurações privadas (o jogo não precisa de variáveis de ambiente)
+.env
+.env.*
+!.env.example
